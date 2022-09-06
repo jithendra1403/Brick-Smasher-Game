@@ -3,7 +3,7 @@
 - Playable in terminal 
 - To run 
 ```shell
-git clone https://github.com/PulakIIIT/Brick-Smasher-Game
+git clone https://github.com/jithendra1403/Brick-Smasher-Game.git
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
